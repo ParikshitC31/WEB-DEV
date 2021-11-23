@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+	 First Website 
+	</title>
+</head>
+<body>
+        <h1>Learning Web Devlopment</h1>
+		<h2>Learning Web Devlopment</h2>
+		<h3>Learning Web Devlopment</h3>
+		<h4>Learning Web Devlopment</h4>
+		<h5>Learning Web Devlopment</h5>
+		<h6>Learning Web Devlopment</h6>
+
+		<!--Text-->
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<hr>
+		<p>
+			<center>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</center>
+	    </p>
+
+	    <!--Image-->
+	    <center>
+	    	<img src="https://images.unsplash.com/photo-1637345540120-38bb0bbb7871?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8Xzh6Rkh1aFJoeW98fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60">
+	    </center>
+<center>
+	<img src="mm.jpg" width="500px">
+</center>
+
+<!--Audio--> 
+<br>
+<hr>
+<audio controls>
+  
+  <source src="Shaswati.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+  	<br>
+  	<hr>
+  	<!--Video-->
+  	
+  		<video width="320" height="240" controls>
+  <source src="chamber.mp4" type="video/mp4">
+  </video>
+  <hr>
+  	<br>
+  	<iframe width="560" height="315" src="https://www.youtube.com/embed/JCyY8FwW0FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  	<hr>
+  	<br>
+  	<table border="1"> 
+  <tr>
+    <th>NAME</th>
+    <th>Phone NO.</th>
+    <th>Email iD</th>
+  </tr>
+  <tr>
+    <td>Parikshit Chakole</td>
+    <td>8956299216</td>
+    <td>parikshitchakoleapc@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Kalpana Chakole</td>
+    <td>9511797658</td>
+    <td>kalpanachakole@gmail.com</td>
+  </tr>
+</table>
+<hr>
+<form>
+	<input type="button">
+	<input type="checkbox">
+	<input type="color">
+	<input type="date">
+	<input type="datetime-local">
+	<input type="email">
+	<input type="file">	
+	<input type="hidden">
+	<input type="image">
+	<input type="month">
+	<input type="number">
+	<input type="password">
+	<input type="radio">
+	<input type="range">
+	<input type="reset">
+	<input type="search">
+	<input type="submit">
+	<input type="tel">
+	<input type="text">
+	<input type="time">
+	<input type="url">
+	<input type="week">
+</form>
+<hr>
+<br>
+<br>
+<br>
+<form>
+	<label>
+		Enter your username: 
+	</label>
+	<input type="email" name="user_username" placeholder="Email Id/ Mob No.">
+	<br>
+	<label>
+		Enter Your Password
+	</label>
+	<input type="password" name="user_password" placeholder="Enter password">
+	<br>
+	<input type="submit" name="Submit">
+	<hr>
+</form>
+
+
+
+</body>
+</html>
